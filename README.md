@@ -14,5 +14,8 @@ The basic idea behind the program is to measure the entered number of pages with
 
 
 To vizualize the hitrate of the TLB a python script has been added therefor a file 'Measurement.png' will be created when running the program. 
+## To run and create a graph enter:
+> plot.py tlb -n 64 -l 1000
+
 
 
